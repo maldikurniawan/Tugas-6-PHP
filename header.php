@@ -11,8 +11,8 @@
                 <li><a class="nav-link scrollto" href="index.php">Home</a></li>
                 <li><a class="nav-link scrollto" href="index.php?hal=about_me">About</a></li>
                 <li><a class="nav-link scrollto" href="index.php?hal=service">Services</a></li>
-                <!-- <li><a class="nav-link scrollto" href="index.php?hal=portofolio">Work</a></li>
-                <li><a class="nav-link scrollto" href="index.php?hal=blog">Blog</a></li> -->
+                <li><a class="nav-link scrollto" href="index.php?hal=portofolio">Portofolio</a></li>
+                <!-- <li><a class="nav-link scrollto" href="index.php?hal=blog">Blog</a></li> -->
                 <li class="dropdown"><a href="#"><span>My Project</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="https://maldikurniawan.github.io/Tugas-5-JS/" target="_blank">Kalkulatorku</a></li>
